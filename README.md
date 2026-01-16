@@ -43,3 +43,6 @@ Run the program as an administrator.
 Check the performance data (CPU, RAM, DISK) on the main screen.
 
 Either perform a quick optimization with "Ultimate Mega Boost" or select specific settings from the bottom menu.
+
+
+<img width="900" height="787" alt="Ekran görüntüsü 2026-01-17 022958" src="https://github.com/user-attachments/assets/d2a4e3c9-0c64-4bd6-91e3-8e7df672ff29" />
