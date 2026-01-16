@@ -1,0 +1,20 @@
+🚀 Alegro Ultimate v1.5.0 - Kullanıcı Lisans Sözleşmesi
+1. TARAFLAR VE KABUL Bu yazılımı (Alegro Ultimate) kurarak ve kullanarak, aşağıda belirtilen şartları okumuş, anlamış ve kabul etmiş sayılırsınız. Bu yazılım Alegro Software tarafından performans iyileştirme amacıyla sunulmuştur.
+
+2. KULLANIM ŞARTLARI
+
+Bu yazılım tamamen ücretsizdir ve ticari amaçla satılamaz.
+
+Yazılım üzerinde tersine mühendislik yapılması veya kaynak kodlarının izinsiz dağıtılması yasaktır.
+
+3. SORUMLULUK REDDİ (ÖNEMLİ)
+
+Alegro Ultimate, Windows işletim sistemi üzerinde kritik kayıt defteri (Registry) ve sistem ayarlarını değiştirmektedir.
+
+Bu yazılımın kullanımı sonucunda oluşabilecek veri kaybı, sistem kararsızlığı veya donanımsal sorunlardan Geliştirici (Alegro Software) sorumlu tutulamaz.
+
+Kullanıcının, yazılımı kullanmadan önce bir "Sistem Geri Yükleme Noktası" oluşturması şiddetle tavsiye edilir.
+
+4. GÜNCELLEMELER VE DESTEK Geliştirici, yazılımı dilediği zaman güncelleme veya yayından kaldırma hakkını saklı tutar. Destek ve iletişim için resmi YouTube ve Discord kanallarını kullanabilirsiniz.
+
+5. ONAY Eğer yukarıdaki şartları kabul etmiyorsanız, lütfen kurulumu iptal edin ve yazılımı bilgisayarınızdan kaldırın.
